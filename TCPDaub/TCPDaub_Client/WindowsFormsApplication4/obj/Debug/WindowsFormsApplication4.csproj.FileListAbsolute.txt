@@ -1,0 +1,16 @@
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SuTsuTse\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SuTsuTse\Desktop\TCPDaub\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb

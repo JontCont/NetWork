@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_Daub", "UDP_Daub\UDP_Daub.csproj", "{ADDD55C2-0045-4F9F-BE63-23B9F53F557A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDD55C2-0045-4F9F-BE63-23B9F53F557A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDD55C2-0045-4F9F-BE63-23B9F53F557A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDD55C2-0045-4F9F-BE63-23B9F53F557A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDD55C2-0045-4F9F-BE63-23B9F53F557A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8126C8D-2112-4D79-8DD4-50D1C03F11F4}
+	EndGlobalSection
+EndGlobal

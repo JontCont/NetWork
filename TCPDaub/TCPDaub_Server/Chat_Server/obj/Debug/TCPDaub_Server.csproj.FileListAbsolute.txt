@@ -1,0 +1,8 @@
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCPDaub_Server.csproj.GenerateResource.Cache
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.pdb

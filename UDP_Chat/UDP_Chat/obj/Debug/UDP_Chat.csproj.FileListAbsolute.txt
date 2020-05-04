@@ -1,0 +1,15 @@
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\UDP_Chat.exe.config
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\UDP_Chat.exe
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\UDP_Chat.pdb
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.csprojAssemblyReference.cache
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.Form1.resources
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.Properties.Resources.resources
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.csproj.GenerateResource.cache
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.exe
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.pdb
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\MetroFramework.Design.dll
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\MetroFramework.dll
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\Micron.dll
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\bin\Debug\MySql.Data.dll
+C:\Users\LeomonRD\source\repos\UDP_Chat\UDP_Chat\obj\Debug\UDP_Chat.csproj.CopyComplete

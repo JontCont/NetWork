@@ -1,0 +1,15 @@
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\UDP_ GuessNumber.exe.config
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\UDP_ GuessNumber.exe
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\UDP_ GuessNumber.pdb
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\Bunifu.Core.dll
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\obj\Debug\UDP_ GuessNumber.csprojAssemblyReference.cache
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\obj\Debug\UDP__GuessNumber.Form1.resources
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\obj\Debug\UDP__GuessNumber.Properties.Resources.resources
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\obj\Debug\UDP_ GuessNumber.csproj.GenerateResource.cache
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\obj\Debug\UDP_ GuessNumber.csproj.CopyComplete
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\obj\Debug\UDP_ GuessNumber.exe
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\obj\Debug\UDP_ GuessNumber.pdb
+C:\Users\JontCont\source\repos\UDP_ GuessNumber\UDP_ GuessNumber\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll

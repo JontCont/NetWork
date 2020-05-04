@@ -1,0 +1,36 @@
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.Cache
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.Cache
+D:\Data1\teach(資工系2019)\線上遊戲設計(CS2012)\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\SuTsuTse\Desktop\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.Cache
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\SuTsuTse\Desktop\TCPDaub\TCPDaub_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.Cache

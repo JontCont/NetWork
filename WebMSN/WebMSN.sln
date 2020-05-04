@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMSN", "WebMSN\WebMSN.csproj", "{75497752-3B79-4733-8332-2F9A96919921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75497752-3B79-4733-8332-2F9A96919921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75497752-3B79-4733-8332-2F9A96919921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75497752-3B79-4733-8332-2F9A96919921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75497752-3B79-4733-8332-2F9A96919921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C44B8B-EE20-4FCE-B11E-CAE10082C1EC}
+	EndGlobalSection
+EndGlobal
