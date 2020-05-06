@@ -1,0 +1,10 @@
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\bin\Debug\TCP_Tennis.exe.config
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\bin\Debug\TCP_Tennis.exe
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\bin\Debug\TCP_Tennis.pdb
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csprojAssemblyReference.cache
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.Form1.resources
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.Properties.Resources.resources
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csproj.GenerateResource.cache
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csproj.CoreCompileInputs.cache
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.exe
+C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.pdb
