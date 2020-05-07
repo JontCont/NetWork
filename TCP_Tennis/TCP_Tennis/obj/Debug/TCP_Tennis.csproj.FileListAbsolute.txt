@@ -8,3 +8,13 @@ C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csproj
 C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csproj.CoreCompileInputs.cache
 C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.exe
 C:\Users\JontCont\source\repos\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.pdb
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\bin\Debug\TCP_Tennis.exe.config
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\bin\Debug\TCP_Tennis.exe
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\bin\Debug\TCP_Tennis.pdb
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csprojAssemblyReference.cache
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.Form1.resources
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.Properties.Resources.resources
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csproj.GenerateResource.cache
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.csproj.CoreCompileInputs.cache
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.exe
+E:\GitHub\NetWork\TCP_Tennis\TCP_Tennis\obj\Debug\TCP_Tennis.pdb

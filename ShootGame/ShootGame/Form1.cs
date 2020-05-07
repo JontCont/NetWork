@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Net;//匯入網路通訊協定相關函數
 using System.Net.Sockets;//匯入網路插座功能函數
 using System.Threading;//匯入多執行緒功能函數
-
+using System.Media;
 
 namespace ShootGame
 {
@@ -19,6 +19,7 @@ namespace ShootGame
         public Form1()
         {
             InitializeComponent();
+         
         }
 
         //公用變數
@@ -26,7 +27,7 @@ namespace ShootGame
         Thread Th;//網路監聽執行緒
         string User;//使用者
         bool Xbang;//拖曳球拍起點
-        
+        SoundPlayer player = new SoundPlayer();
         private void Listen()
         {
             EndPoint ServerEP = (EndPoint)T.RemoteEndPoint; //Server 的 EndPoint
@@ -186,7 +187,8 @@ namespace ShootGame
         {
             Form.CheckForIllegalCrossThreadCalls = false;
             Button2.Select(); //轉移焦點到Button2
-
+            P.Left = 207;
+            Q.Left = 207;
         }
 
         private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -206,6 +208,8 @@ namespace ShootGame
                     break;
                 case Keys.Space:
                     MyShot(); //開槍
+                    player.SoundLocation = Application.StartupPath + @"\\shoot.wav";
+                    player.Play();
                     break;
             }
             if (ListBox1.SelectedIndex >= 0)//有選取遊戲對手，上線遊戲中

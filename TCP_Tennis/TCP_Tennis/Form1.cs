@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Net.Sockets;
 using System.Threading;
 using System.Net;
-
+using System.Media;
 namespace TCP_Tennis
 {
     public partial class Form1 : Form
@@ -126,6 +126,7 @@ namespace TCP_Tennis
                 Send("8" + Q.Left.ToString() + "," + Q.Top.ToString() + "|" + ListBox1.SelectedItem);
             }
         }
+        SoundPlayer player = new SoundPlayer();
         //碰撞檢查程式
         private bool chkHit(Label B, object C, bool inside)
         {
@@ -137,12 +138,17 @@ namespace TCP_Tennis
                 {
                     V.X = -Math.Abs(V.X);
                     B.Tag = V;
+                    player.SoundLocation = Application.StartupPath + @"\Box.wav";
+                    player.Play();
                     return true;
+
                 }
                 if (B.Left < 0)//左牆碰撞
                 {
                     V.X = Math.Abs(V.X);
                     B.Tag = V;
+                    player.SoundLocation = Application.StartupPath + @"\Box.wav";
+                    player.Play();
                     return true;
                 }
                 if (B.Bottom > p.Height)//地板碰撞
@@ -175,6 +181,8 @@ namespace TCP_Tennis
                 //    目標頂部碰撞
                 if (B.Bottom >= k.Top && (B.Bottom - k.Top) <= Math.Abs(V.Y)) V.Y = -Math.Abs(V.Y);
                 B.Tag = V;//紀錄球速度(方向)
+                player.SoundLocation = Application.StartupPath + @"\Box.wav";
+                player.Play();
                 return true;//回應有發生碰撞
             }
         }

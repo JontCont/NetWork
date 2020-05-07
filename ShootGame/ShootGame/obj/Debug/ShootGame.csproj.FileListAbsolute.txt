@@ -18,3 +18,13 @@ E:\GIT\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.csproj.GenerateResource.c
 E:\GIT\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.csproj.CoreCompileInputs.cache
 E:\GIT\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.exe
 E:\GIT\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.pdb
+E:\GitHub\NetWork\ShootGame\ShootGame\bin\Debug\ShootGame.exe.config
+E:\GitHub\NetWork\ShootGame\ShootGame\bin\Debug\ShootGame.exe
+E:\GitHub\NetWork\ShootGame\ShootGame\bin\Debug\ShootGame.pdb
+E:\GitHub\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.csprojAssemblyReference.cache
+E:\GitHub\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.Form1.resources
+E:\GitHub\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.Properties.Resources.resources
+E:\GitHub\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.csproj.GenerateResource.cache
+E:\GitHub\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.csproj.CoreCompileInputs.cache
+E:\GitHub\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.exe
+E:\GitHub\NetWork\ShootGame\ShootGame\obj\Debug\ShootGame.pdb
