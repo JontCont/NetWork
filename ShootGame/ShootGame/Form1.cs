@@ -201,10 +201,12 @@ namespace ShootGame
             switch (e.KeyCode)
             {
                 case Keys.Z:
-                    P.Left -= 5; //左移
+                    if(P.Left>2)
+                        P.Left -= 5; //左移
                     break;
                 case Keys.X:
-                    P.Left += 5; //右移
+                     if(P.Left<467)
+                        P.Left += 5; //右移
                     break;
                 case Keys.Space:
                     MyShot(); //開槍
@@ -212,6 +214,7 @@ namespace ShootGame
                     player.Play();
                     break;
             }
+            TextBox4.Text = P.Left.ToString();
             if (ListBox1.SelectedIndex >= 0)//有選取遊戲對手，上線遊戲中
             {
                 switch (e.KeyCode)

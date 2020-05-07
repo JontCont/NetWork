@@ -10,7 +10,9 @@ using System.Windows.Forms;
 using System.Net.Sockets;
 using System.Threading;
 using System.Net;
-using System.Media;
+using System.Media; //mediaplay
+
+
 namespace TCP_Tennis
 {
     public partial class Form1 : Form
@@ -126,7 +128,7 @@ namespace TCP_Tennis
                 Send("8" + Q.Left.ToString() + "," + Q.Top.ToString() + "|" + ListBox1.SelectedItem);
             }
         }
-        SoundPlayer player = new SoundPlayer();
+        SoundPlayer player = new SoundPlayer(); //新增SoundPlayer物件
         //碰撞檢查程式
         private bool chkHit(Label B, object C, bool inside)
         {
