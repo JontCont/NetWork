@@ -62,6 +62,7 @@ namespace ShootGame
                         break;
                     case "3"://敵人移動槍枝
                         Q.Left = Panel1.Width - int.Parse(Str) - Q.Width; //左右顛倒
+                       // TextBox4.Text = Q.Left.ToString();
                         break;
                     case "4"://敵人開槍
                         Xbang = true; //樹立敵方開炮旗標
@@ -187,8 +188,8 @@ namespace ShootGame
         {
             Form.CheckForIllegalCrossThreadCalls = false;
             Button2.Select(); //轉移焦點到Button2
-            P.Left = 207;
-            Q.Left = 207;
+            P.Left = 180;
+            Q.Left = 180;
         }
 
         private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -200,13 +201,13 @@ namespace ShootGame
         {
             switch (e.KeyCode)
             {
-                case Keys.Z:
+                case Keys.Left:
                     if(P.Left>2)
-                        P.Left -= 5; //左移
+                        P.Left -= 10; //左移
                     break;
-                case Keys.X:
-                     if(P.Left<467)
-                        P.Left += 5; //右移
+                case Keys.Right:
+                     if(P.Left< 355)
+                        P.Left += 10; //右移
                     break;
                 case Keys.Space:
                     MyShot(); //開槍
@@ -214,15 +215,14 @@ namespace ShootGame
                     player.Play();
                     break;
             }
-            TextBox4.Text = P.Left.ToString();
             if (ListBox1.SelectedIndex >= 0)//有選取遊戲對手，上線遊戲中
             {
                 switch (e.KeyCode)
                 {
-                    case Keys.Z://移動飛機
+                    case Keys.Left://移動飛機
                         Send("3" + P.Left.ToString() + "|" + ListBox1.SelectedItem); //傳送位置訊息
                         break;
-                    case Keys.X://移動飛機
+                    case Keys.Right://移動飛機
                         Send("3" + P.Left.ToString() + "|" + ListBox1.SelectedItem); //傳送位置訊息
                         break;
                     case Keys.Space://開槍

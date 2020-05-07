@@ -85,6 +85,7 @@
             // 
             // TextBox4
             // 
+            this.TextBox4.Enabled = false;
             this.TextBox4.Location = new System.Drawing.Point(38, 341);
             this.TextBox4.Name = "TextBox4";
             this.TextBox4.Size = new System.Drawing.Size(116, 22);
@@ -190,18 +191,18 @@
             this.Panel1.BackColor = System.Drawing.Color.White;
             this.Panel1.Controls.Add(this.Q);
             this.Panel1.Controls.Add(this.P);
-            this.Panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.Panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.Panel1.Enabled = false;
             this.Panel1.Location = new System.Drawing.Point(0, 0);
             this.Panel1.Name = "Panel1";
-            this.Panel1.Size = new System.Drawing.Size(584, 412);
+            this.Panel1.Size = new System.Drawing.Size(400, 413);
             this.Panel1.TabIndex = 144;
             // 
             // Q
             // 
             this.Q.BackColor = System.Drawing.Color.Transparent;
             this.Q.Image = global::ShootGame.Properties.Resources.ShooterX;
-            this.Q.Location = new System.Drawing.Point(155, 0);
+            this.Q.Location = new System.Drawing.Point(180, 0);
             this.Q.Name = "Q";
             this.Q.Size = new System.Drawing.Size(43, 50);
             this.Q.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -213,7 +214,7 @@
             // 
             this.P.BackColor = System.Drawing.Color.Transparent;
             this.P.Image = global::ShootGame.Properties.Resources.Shooter;
-            this.P.Location = new System.Drawing.Point(155, 362);
+            this.P.Location = new System.Drawing.Point(180, 362);
             this.P.Name = "P";
             this.P.Size = new System.Drawing.Size(43, 50);
             this.P.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -237,10 +238,10 @@
             this.panel2.Controls.Add(this.TextBox3);
             this.panel2.Controls.Add(this.Label4);
             this.panel2.Controls.Add(this.Button1);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel2.Location = new System.Drawing.Point(384, 0);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel2.Location = new System.Drawing.Point(400, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(200, 412);
+            this.panel2.Size = new System.Drawing.Size(189, 413);
             this.panel2.TabIndex = 158;
             // 
             // label6
@@ -257,7 +258,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(584, 412);
+            this.ClientSize = new System.Drawing.Size(589, 413);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.Panel1);
             this.KeyPreview = true;
