@@ -57,9 +57,10 @@
             // 
             // Button2
             // 
-            this.Button2.Location = new System.Drawing.Point(152, 380);
+            this.Button2.Location = new System.Drawing.Point(203, 475);
+            this.Button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Button2.Name = "Button2";
-            this.Button2.Size = new System.Drawing.Size(23, 23);
+            this.Button2.Size = new System.Drawing.Size(31, 29);
             this.Button2.TabIndex = 157;
             this.Button2.UseVisualStyleBackColor = true;
             // 
@@ -67,9 +68,10 @@
             // 
             this.Score.AutoSize = true;
             this.Score.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Score.Location = new System.Drawing.Point(84, 380);
+            this.Score.Location = new System.Drawing.Point(112, 475);
+            this.Score.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Score.Name = "Score";
-            this.Score.Size = new System.Drawing.Size(11, 12);
+            this.Score.Size = new System.Drawing.Size(14, 15);
             this.Score.TabIndex = 156;
             this.Score.Text = "0";
             // 
@@ -77,27 +79,30 @@
             // 
             this.Label5.AutoSize = true;
             this.Label5.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Label5.Location = new System.Drawing.Point(36, 326);
+            this.Label5.Location = new System.Drawing.Point(48, 408);
+            this.Label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label5.Name = "Label5";
-            this.Label5.Size = new System.Drawing.Size(53, 12);
+            this.Label5.Size = new System.Drawing.Size(67, 15);
             this.Label5.TabIndex = 155;
             this.Label5.Text = "系統訊息";
             // 
             // TextBox4
             // 
             this.TextBox4.Enabled = false;
-            this.TextBox4.Location = new System.Drawing.Point(38, 341);
+            this.TextBox4.Location = new System.Drawing.Point(51, 426);
+            this.TextBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.TextBox4.Name = "TextBox4";
-            this.TextBox4.Size = new System.Drawing.Size(116, 22);
+            this.TextBox4.Size = new System.Drawing.Size(153, 25);
             this.TextBox4.TabIndex = 154;
             // 
             // ListBox1
             // 
             this.ListBox1.FormattingEnabled = true;
-            this.ListBox1.ItemHeight = 12;
-            this.ListBox1.Location = new System.Drawing.Point(43, 212);
+            this.ListBox1.ItemHeight = 15;
+            this.ListBox1.Location = new System.Drawing.Point(57, 265);
+            this.ListBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ListBox1.Name = "ListBox1";
-            this.ListBox1.Size = new System.Drawing.Size(116, 100);
+            this.ListBox1.Size = new System.Drawing.Size(153, 124);
             this.ListBox1.TabIndex = 153;
             this.ListBox1.SelectedIndexChanged += new System.EventHandler(this.ListBox1_SelectedIndexChanged);
             // 
@@ -111,18 +116,20 @@
             // 
             this.Label4.AutoSize = true;
             this.Label4.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Label4.Location = new System.Drawing.Point(39, 197);
+            this.Label4.Location = new System.Drawing.Point(52, 246);
+            this.Label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label4.Name = "Label4";
-            this.Label4.Size = new System.Drawing.Size(65, 12);
+            this.Label4.Size = new System.Drawing.Size(82, 15);
             this.Label4.TabIndex = 152;
             this.Label4.Text = "線上使用者";
             // 
             // Button1
             // 
             this.Button1.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Button1.Location = new System.Drawing.Point(38, 153);
+            this.Button1.Location = new System.Drawing.Point(51, 191);
+            this.Button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Button1.Name = "Button1";
-            this.Button1.Size = new System.Drawing.Size(121, 31);
+            this.Button1.Size = new System.Drawing.Size(161, 39);
             this.Button1.TabIndex = 151;
             this.Button1.Text = "登入伺服器";
             this.Button1.UseVisualStyleBackColor = true;
@@ -130,16 +137,18 @@
             // 
             // TextBox3
             // 
-            this.TextBox3.Location = new System.Drawing.Point(43, 125);
+            this.TextBox3.Location = new System.Drawing.Point(57, 156);
+            this.TextBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.TextBox3.Name = "TextBox3";
-            this.TextBox3.Size = new System.Drawing.Size(115, 22);
+            this.TextBox3.Size = new System.Drawing.Size(152, 25);
             this.TextBox3.TabIndex = 150;
             // 
             // TextBox2
             // 
-            this.TextBox2.Location = new System.Drawing.Point(43, 75);
+            this.TextBox2.Location = new System.Drawing.Point(57, 94);
+            this.TextBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.TextBox2.Name = "TextBox2";
-            this.TextBox2.Size = new System.Drawing.Size(116, 22);
+            this.TextBox2.Size = new System.Drawing.Size(153, 25);
             this.TextBox2.TabIndex = 148;
             this.TextBox2.Text = "2013";
             // 
@@ -147,26 +156,29 @@
             // 
             this.Label2.AutoSize = true;
             this.Label2.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Label2.Location = new System.Drawing.Point(41, 60);
+            this.Label2.Location = new System.Drawing.Point(55, 75);
+            this.Label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label2.Name = "Label2";
-            this.Label2.Size = new System.Drawing.Size(72, 12);
+            this.Label2.Size = new System.Drawing.Size(91, 15);
             this.Label2.TabIndex = 147;
             this.Label2.Text = "伺服器Port：";
             // 
             // TextBox1
             // 
-            this.TextBox1.Location = new System.Drawing.Point(43, 24);
+            this.TextBox1.Location = new System.Drawing.Point(57, 30);
+            this.TextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.TextBox1.Name = "TextBox1";
-            this.TextBox1.Size = new System.Drawing.Size(116, 22);
+            this.TextBox1.Size = new System.Drawing.Size(153, 25);
             this.TextBox1.TabIndex = 146;
             // 
             // Label1
             // 
             this.Label1.AutoSize = true;
             this.Label1.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Label1.Location = new System.Drawing.Point(41, 9);
+            this.Label1.Location = new System.Drawing.Point(55, 11);
+            this.Label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label1.Name = "Label1";
-            this.Label1.Size = new System.Drawing.Size(63, 12);
+            this.Label1.Size = new System.Drawing.Size(80, 15);
             this.Label1.TabIndex = 145;
             this.Label1.Text = "伺服器IP：";
             // 
@@ -174,9 +186,10 @@
             // 
             this.Label3.AutoSize = true;
             this.Label3.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Label3.Location = new System.Drawing.Point(41, 110);
+            this.Label3.Location = new System.Drawing.Point(55, 138);
+            this.Label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label3.Name = "Label3";
-            this.Label3.Size = new System.Drawing.Size(65, 12);
+            this.Label3.Size = new System.Drawing.Size(82, 15);
             this.Label3.TabIndex = 149;
             this.Label3.Text = "玩家名稱：";
             // 
@@ -194,15 +207,17 @@
             this.Panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.Panel1.Enabled = false;
             this.Panel1.Location = new System.Drawing.Point(0, 0);
+            this.Panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Panel1.Name = "Panel1";
-            this.Panel1.Size = new System.Drawing.Size(400, 413);
+            this.Panel1.Size = new System.Drawing.Size(427, 516);
             this.Panel1.TabIndex = 144;
             // 
             // Q
             // 
             this.Q.BackColor = System.Drawing.Color.Transparent;
             this.Q.Image = global::ShootGame.Properties.Resources.ShooterX;
-            this.Q.Location = new System.Drawing.Point(180, 0);
+            this.Q.Location = new System.Drawing.Point(240, 0);
+            this.Q.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Q.Name = "Q";
             this.Q.Size = new System.Drawing.Size(43, 50);
             this.Q.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -214,7 +229,8 @@
             // 
             this.P.BackColor = System.Drawing.Color.Transparent;
             this.P.Image = global::ShootGame.Properties.Resources.Shooter;
-            this.P.Location = new System.Drawing.Point(180, 362);
+            this.P.Location = new System.Drawing.Point(240, 452);
+            this.P.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.P.Name = "P";
             this.P.Size = new System.Drawing.Size(43, 50);
             this.P.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -239,29 +255,32 @@
             this.panel2.Controls.Add(this.Label4);
             this.panel2.Controls.Add(this.Button1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(400, 0);
+            this.panel2.Location = new System.Drawing.Point(427, 0);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(189, 413);
+            this.panel2.Size = new System.Drawing.Size(241, 516);
             this.panel2.TabIndex = 158;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("新細明體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label6.Location = new System.Drawing.Point(36, 380);
+            this.label6.Location = new System.Drawing.Point(48, 475);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(29, 12);
+            this.label6.Size = new System.Drawing.Size(37, 15);
             this.label6.TabIndex = 158;
             this.label6.Text = "得分";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(589, 413);
+            this.ClientSize = new System.Drawing.Size(668, 516);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.Panel1);
             this.KeyPreview = true;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "線上射擊遊戲";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);

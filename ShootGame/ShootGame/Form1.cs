@@ -190,6 +190,7 @@ namespace ShootGame
             Button2.Select(); //轉移焦點到Button2
             P.Left = 180;
             Q.Left = 180;
+            Panel1.Width = 410;
         }
 
         private void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -201,11 +202,11 @@ namespace ShootGame
         {
             switch (e.KeyCode)
             {
-                case Keys.Left:
+                case Keys.Z:
                     if(P.Left>2)
                         P.Left -= 10; //左移
                     break;
-                case Keys.Right:
+                case Keys.X:
                      if(P.Left< 355)
                         P.Left += 10; //右移
                     break;
@@ -219,10 +220,10 @@ namespace ShootGame
             {
                 switch (e.KeyCode)
                 {
-                    case Keys.Left://移動飛機
+                    case Keys.Z://移動飛機
                         Send("3" + P.Left.ToString() + "|" + ListBox1.SelectedItem); //傳送位置訊息
                         break;
-                    case Keys.Right://移動飛機
+                    case Keys.X://移動飛機
                         Send("3" + P.Left.ToString() + "|" + ListBox1.SelectedItem); //傳送位置訊息
                         break;
                     case Keys.Space://開槍
